@@ -20,5 +20,5 @@ A more close look into how the algorithm grasps the relationship between a proce
 
 Details about the training data adn result discussion can be found in our paper: 
 
-![Machine learning-based microstructure prediction during laser sintering of alumina](https://www.nature.com/articles/s41598-021-89816-x)
+[Machine learning-based microstructure prediction during laser sintering of alumina](https://www.nature.com/articles/s41598-021-89816-x)
   
