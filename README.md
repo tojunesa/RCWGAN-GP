@@ -8,7 +8,5 @@ Conventionally, knowledge about how the laser power affects the microstructure i
 
 This figure illustrates the ideal:
 
-![](image/regress microstructure against processing parameter.png)
-
-The following code trains a Regression-based Conditional Wasserstein Generative Adversarial Network. It takes in processing parameters to estimate the resulted material's microstructure.
+![](images/regress microstructure against processing parameter.png)
   
