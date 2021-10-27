@@ -18,7 +18,7 @@ A more close look into how the algorithm grasps the relationship between a proce
 
 ![](images/regress%20alumina%20microstructure%20agianst%20laser%20power.png)
 
-Details about the training data adn result discussion can be found in our paper: Machine learning-based microstructure prediction during laser sintering of alumina
+Details about the training data adn result discussion can be found in our paper: 
 
-![](https://www.nature.com/articles/s41598-021-89816-x)
+![Machine learning-based microstructure prediction during laser sintering of alumina](https://www.nature.com/articles/s41598-021-89816-x)
   
